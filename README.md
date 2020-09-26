@@ -1,5 +1,5 @@
 <h2>Hi, I'm Ricardo Trejo <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src="https://sait.kg/wp-content/uploads/2019/08/developer-site-bishkek.png" width="500">
+<img align='right' src="https://sait.kg/wp-content/uploads/2019/08/developer-site-bishkek.png" width="400">
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ricardo95778761-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ricardo95778761)](https://twitter.com/Ricardo95778761) [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/ricardo-trejo-sanjuan-96616b153/)](http://www.linkedin.com/in/ricardo-trejo-sanjuan-96616b153/) [![Gmail Badge](https://img.shields.io/badge/-trejosanjuanricardo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trejosanjuanricardo@gmail.com)](mailto:trejosanjuanricardo@gmail.com)
