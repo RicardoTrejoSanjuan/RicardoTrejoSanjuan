@@ -33,15 +33,15 @@ I care deeply about **clean code**, **user experience**, and **engineering excel
 
 ## 🚀 Featured Projects
 
-### 🔹 [CalorieTrack](https://calorie-track.netlify.app/)
+### 🔹 [CalorieTrack](https://gentle-puppy-0e63e3.netlify.app/)
 Daily calorie tracker built with React, Zustand and TypeScript.  
 🛠 `React`, `Tailwind`, `Zustand`, `React Hook Form`, `Netlify`
 
-### 🔹 [MixologyHub](https://mixologyhub.netlify.app/)
+### 🔹 [MixologyHub](https://magnificent-bombolone-192394.netlify.app/)
 Search and save cocktail recipes with a sleek UI.  
 🛠 `React`, `Axios`, `Zod`, `Headless UI`, `React Router`
 
-### 🔹 PetCare (WIP)
+### 🔹 [PetCare (WIP)](https://wonderful-kataifi-cd77df.netlify.app/)
 A platform for veterinary clinics to manage and track patients.  
 🛠 `React`, `Zustand`, `Toastify`, `Tailwind`, `UUID`
 
