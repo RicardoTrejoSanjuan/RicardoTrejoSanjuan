@@ -12,7 +12,7 @@
 
 ## 💡 About Me
 
-I'm a passionate software engineer who builds fast, elegant, and scalable web applications. Over the last decade, I’ve worked with companies like **Globant**, **Grupo Salinas**, and **Livingston International**, contributing to mission-critical products and collaborating with teams across the globe.
+I'm a passionate software engineer who builds fast, elegant, and scalable web applications. Over the last decade, I’ve worked with companies like **Globant** and **Livingston International**, contributing to mission-critical products and collaborating with teams across the globe.
 
 I care deeply about **clean code**, **user experience**, and **engineering excellence**. Currently preparing for new opportunities in Seattle’s vibrant tech ecosystem.
 
@@ -55,7 +55,7 @@ A platform for veterinary clinics to manage and track patients.
 - **Full Stack Developer @ Strat Plus**  
   _Developed backend and frontend solutions with Node.js, Angular, and MongoDB._
 
-- **Innovation Software Engineer @ Grupo Salinas**  
+- **Innovation Software Engineer @ Livingston**  
   _Led the migration from monolith to microfrontends using `single-spa`._
 
 Check out more on [LinkedIn](https://www.linkedin.com/in/ricardotrejo/)
