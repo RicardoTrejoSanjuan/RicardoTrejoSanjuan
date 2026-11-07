@@ -3,7 +3,7 @@
 **Frontend Engineer | Full Stack Developer | UI/UX Enthusiast**  
 🌎 Seattle, WA · 💼 Open to work · ⏳ 10+ years of experience
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://ricardotrejo.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://ricardotrejo.dev](https://ricardotrejosanjuan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardotrejo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RicardoTrejoSanjuan)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ricardotrejosanjuan@gmail.com)
